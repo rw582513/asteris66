@@ -1,0 +1,24 @@
+{
+  "name": "rw582513",
+  "version": "1.0.0",
+  
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rw582513/asteris66.git"
+  },
+  "license": "ISC", 
+  "main": "index.js", 
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"pidox96": "^1.0.0"
+  },
+  "devDependencies": {
+    
+  }
+
+}
